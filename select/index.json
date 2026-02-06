@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "1000年生きてる / 月ノ美兎 cover",
+  "base_artist": "月ノ美兎",
+  "createdAt": "2026-02-06T20:22:49.628602Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1000年生きてる",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/01_1000年生きてる_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1000年生きてる /covered by しぐれうい",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/02_1000年生きてる__covered_by_しぐれうい_しぐれうい.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1000年生きてる",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ",
+      "has_synced": true,
+      "path": "select/03_1000年生きてる_ワンダーランズ×ショウタイム_feat._天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "1000年生きてる (feat. 天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/04_1000年生きてる_(feat._天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1000年生きてる",
+      "artist": "月ノ美兎",
+      "has_synced": false,
+      "path": "select/pl_01_1000年生きてる_月ノ美兎.txt"
+    }
+  ]
+}
